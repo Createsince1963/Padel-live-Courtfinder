@@ -34,3 +34,17 @@ Official partner integration
 
 Preparation phase.
 MVP development in progress.
+## Current Integration
+
+No direct API integration.
+
+SmartCourtFinder redirects users to official Playtomic booking pages.
+
+## Future Integration
+
+Evaluation of:
+
+- Venue information
+- Court availability
+- Official API access
+- Playtomic Connect partnership
