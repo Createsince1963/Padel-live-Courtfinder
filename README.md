@@ -1,84 +1,102 @@
-# Padel-live-Courtfinder
-Padel lice courtfinder - find the court - find time - find booking
-# SmartCourtFinder
+# Padel Live Court Finder
 
 Find. Compare. Play.
 
-SmartCourtFinder is an Android application that helps padel and tennis players quickly find available courts nearby, compare options, and access booking platforms with a single tap.
+Padel Live Court Finder is an Android application that helps padel players quickly find available courts, compare options, and access booking platforms with a single tap.
+
+---
 
 ## Features
 
 ### Court Discovery
 - GPS-based location search
-- Find nearby padel and tennis courts
+- Find nearby padel clubs
 - Distance calculation
-- Map navigation support
+- Location filtering
 
-### Court Comparison
-- Compare available courts
-- Compare prices
-- Compare distance
-- Compare available times
+### Live Court Search
+- Search available courts
+- Live availability overview
+- Multiple provider support
+- Fast refresh
 
 ### Booking Assistant
-- Direct links to external booking providers
-- Fast access to court reservations
-- No account required
+- Direct links to booking providers
+- Quick booking access
+- Time-based court search
 
 ### Favorites
 - Save favorite clubs
-- Quick access to frequently used locations
+- Quick access to preferred locations
 
-## Application Screenshots
+### Settings
+- Multi-language support
+- User preferences
+- Configurable search options
 
-| Screen | Preview |
-|---------|---------|
-| Loading | screenshots/01_loading.jpg |
-| Search Result | screenshots/02_firstResult.jpg |
-| Play Time | ![](screenshots/03_playTime.jpg) |
-rt Details | screenshots/04_Court.jpg |
-| Location | screenshots/05_Location.jpg |
-| Padel Clubs | ![](enshots/05_PadelClubs.jpg |
-| Manage Clubs | ![](screenshots/06_manageClubs |
-| Language | ![](screenshots/07_Language.jpg Settings | screenshots/08_Setting.jpg |
-| Live View | ![](screenshots/10_Live.jpg |
-| Live View Large | ![](screenshotsLiveViewBig.jpg |
+---
 
+## Screenshots
+
+### Loading Screen
+![reenshots/01_loading.jpg
+
+### First Search Result
+![reenshots/02_firstResult.jpg
+
+### Play Time Selection
+![](screenshots/03_playTime
+
+### Court Details
+screenshots/04_Court.jpg
+
+### Location Search
+screenshots/05_Location.jpg
+
+### Padel Clubs Overview
+![](screenshots/05_PadelClubs.jpg# Manage Clubs
+!creenshots/06_manageClubs.jpg
+
+### Language Settings
+screenshots/07_Language.jpg
+
+### Application Settings
+screenshots/08_Setting.jpg
+
+### Live View
+screenshots/10_LiveView.jpg
+
+### Live View Detailed
+![reenshots/11_LiveViewBig.jpg
+
+---
 
 ## Roadmap
 
 ### MVP v1.0
-- [x] GPS location
-- [x] Nearby court search
-- [x] Court details
-- [x] Price overview
-- [x] Availability overview
-- [x] Favorite courts
-- [x] External booking links
+- [x] GPS location search
+- [x] Court discovery
+- [x] Club overview
+- [x] Live availability view
+- [x] Play time search
+- [x] Favorites
+- [x] Booking links
+- [x] Multi-language support
 
 ### v1.1
 - [ ] Calendar integration
 - [ ] Travel time estimation
-- [ ] Filter by sport
-- [ ] Multi-country search
+- [ ] Advanced filters
+- [ ] Improved search performance
 
 ### v2.0
 - [ ] Smart recommendations
 - [ ] Court ranking
-- [ ] Advanced search filters
+- [ ] Multi-country support
+- [ ] Premium features
 - [ ] Partner integrations
-- [ ] Playtomic Connect evaluation
 
-## Project Goals
-
-The objective of SmartCourtFinder is to simplify court discovery for players by combining:
-
-- Location awareness
-- Availability visibility
-- Price transparency
-- Fast booking access
-
-The application is designed as a discovery and booking assistant platform.
+---
 
 ## Technology
 
@@ -89,37 +107,46 @@ The application is designed as a discovery and booking assistant platform.
 - REST APIs
 - GitHub
 
-## Status
+---
 
-Current Phase: MVP Development
+## Booking Providers
 
-### Booking Providers
-
-SmartCourtFinder provides direct links to third-party booking platforms.
+Padel Live Court Finder provides direct links to third-party booking platforms.
 
 Supported providers may include:
 
 - Playtomic
-- Club Websites
-- Other Booking Platforms
+- Club websites
+- Local booking platforms
 
-Bookings and payments are completed on the provider's platform.
+Bookings and payments are completed on the provider platform.
 
+---
+
+## Project Status
+
+Current Phase: MVP Development
+
+---
 
 ## Disclaimer
 
-SmartCourtFinder is an independent project.
+Padel Live Court Finder is an independent project.
 
-All court bookings are performed through the respective booking provider or club platform. SmartCourtFinder does not process payments or bookings directly.
+All court bookings are performed through the respective booking provider or club platform. The application does not process payments or bookings directly.
+
+---
 
 ## Feedback
 
 Suggestions, issues and feature requests are welcome.
 
+---
+
 ## Author
 
-Thomas Kreie
+CreatSince1963
 
 ---
 
-Find. Compare. Play.
+**Find. Compare. Play.**
