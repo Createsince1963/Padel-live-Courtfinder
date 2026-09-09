@@ -38,36 +38,37 @@ Padel Live Court Finder is an Android application that helps padel players quick
 
 ## Screenshots
 
-### Loading Screen
-screenshots/01_loading.jpg
+### App Loading
+![Loading](screenshots/01_loading.jpg)
 
-### First Search Result
-![reenshots/02_firstResult.jpg
+### Firts Result
+![Searchots/02_firstResult.jpg
 
-### Play Time Selection
-![](screenshots/03_playTime
+### Court Availability
+![Playshots/03_playTime.jpg
 
 ### Court Details
-screenshots/04_Court.jpg
+![Courthots/04_Court.jpg
 
-### Location Search
-screenshots/05_Location.jpg
+### Location View
+![Locations/05_Location.jpg
 
-### Padel Clubs Overview
-![](screenshots/05_PadelClubs.jpg# Manage Clubs
-!creenshots/06_manageClubs.jpg
+### Padel Clubs
+screenshots/06_PadelClubs.jpg
+
+### Club Management
+![Manage Clubs](screenshots/07
 
 ### Language Settings
-screenshots/07_Language.jpg
-
+![Language](screenshots/08_L
 ### Application Settings
-screenshots/08_Setting.jpg
+![Settings](screenshots/09
 
-### Live View
-screenshots/10_LiveView.jpg
+### Live Court View
+![Liveshots/10_LiveView.jpg
 
-### Live View Detailed
-![reenshots/11_LiveViewBig.jpg
+### Extended Live View
+![Liveshots/11_LiveViewBig.jpg
 
 ---
 
