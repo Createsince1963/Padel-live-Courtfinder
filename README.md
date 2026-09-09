@@ -77,6 +77,19 @@ The application is designed as a discovery and booking assistant platform.
 
 Current Phase: MVP Development
 
+### Booking Providers
+
+SmartCourtFinder provides direct links to third-party booking platforms.
+
+Supported providers may include:
+
+- Playtomic
+- Club Websites
+- Other Booking Platforms
+
+Bookings and payments are completed on the provider's platform.
+
+
 ## Disclaimer
 
 SmartCourtFinder is an independent project.
@@ -90,10 +103,6 @@ Suggestions, issues and feature requests are welcome.
 ## Author
 
 Thomas Kreie
-
-Lead Engineer Piping
-
-Basel, Switzerland
 
 ---
 
