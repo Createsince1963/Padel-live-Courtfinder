@@ -28,36 +28,23 @@ SmartCourtFinder is an Android application that helps padel and tennis players q
 ### Favorites
 - Save favorite clubs
 - Quick access to frequently used locations
-## Screenshots
 
-### Loading Screen
-![Loadingts/01_loading.jpg
+## Application Screenshots
 
-### First Search Result
-![Firsthots/02_firstResult.jpg
+| Screen | Preview |
+|---------|---------|
+| Loading | screenshots/01_loading.jpg |
+| Search Result | screenshots/02_firstResult.jpg |
+| Play Time | ![](screenshots/03_playTime.jpg) |
+rt Details | screenshots/04_Court.jpg |
+| Location | screenshots/05_Location.jpg |
+| Padel Clubs | ![](enshots/05_PadelClubs.jpg |
+| Manage Clubs | ![](screenshots/06_manageClubs |
+| Language | ![](screenshots/07_Language.jpg Settings | screenshots/08_Setting.jpg |
+| Live View | ![](screenshots/10_Live.jpg |
+| Live View Large | ![](screenshotsLiveViewBig.jpg |
 
-### Play Time Selection
-![reenshots/03_playTime.jpg
 
-### Court Details
-screenshots/04_Court.jpg
-
-### Location Search
-![Locations/05_Location.jpg
-
-### Padel Clubs Overview
-![Padel Clubs](screenshots/05_PadelClubs.jpgubs
-![Manageots/06_manageClubs.jpg
-
-### Language Settings
-screenshots/07_Language.jpg
-
-### Application Settings
-![Settings](screenshots/08_Set# Live View
-![Liveshots/10_LiveView.jpg
-
-### Live View Detailed
-![Live View Big](screensig.jpg
 ## Roadmap
 
 ### MVP v1.0
